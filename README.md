@@ -9,8 +9,8 @@ Currently studying Software Development at _nology.
 ##
 
 ### Github Stats 📈
-[![Kinte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kintem&theme=dracula&show_icons=true)](https://github.com/kintem/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kintem&theme=dracula&layout=compact)](https://github.com/kintem/github-readme-stats)
+[![Kinte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kintem&theme=dracula&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kintem&theme=dracula&layout=compact)]
 ##
 
 ### Reach Me 📬
